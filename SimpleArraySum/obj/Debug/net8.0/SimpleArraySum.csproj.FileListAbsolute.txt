@@ -1,0 +1,15 @@
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/bin/Debug/net8.0/SimpleArraySum
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/bin/Debug/net8.0/SimpleArraySum.deps.json
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/bin/Debug/net8.0/SimpleArraySum.runtimeconfig.json
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/bin/Debug/net8.0/SimpleArraySum.dll
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/bin/Debug/net8.0/SimpleArraySum.pdb
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.AssemblyInfoInputs.cache
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.AssemblyInfo.cs
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.csproj.CoreCompileInputs.cache
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.dll
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/refint/SimpleArraySum.dll
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.pdb
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.genruntimeconfig.cache
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/ref/SimpleArraySum.dll
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.sourcelink.json
